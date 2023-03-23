@@ -2,6 +2,12 @@
 
 Discover the secrets of quick and easy language learning online, while broadening your vocabulary with the support of millions of players worldwide via the LinGo Play language learning application. The application provides lessons and courses that cater to all levels of learners, from novice to advanced speakers. You will be introduced to numerous foreign words and phrases, memorize them with ease, and frequently update your vocabulary, regardless of whether you are a beginner or a native speaker of the language. Lingo Play is an interesting and effective way to learn foreign languages and memorise words in English (British and American), Spanish, French, German, Italian, Portuguese (Brazilian and European), Arabic, Russian, Turkish, Japanese, Chinese, or Korean, English (British and American), Spanish, French, German, Italian, Portuguese (Brazilian and European), Arabic, Russian, Turkish, Japanese, Chinese, or Korean.
 
+* 5,000 words and phrases neatly categorized
+* Use interactive lessons of varying complexity
+* Repeat to improve memory
+* Learn by yourself or compete with other users online
+* Participate in tournaments
+
 ## Find your language
 
 [English](https://www.lingo-play.com/en/english-for-beginners-and-advanced/)
@@ -78,8 +84,3 @@ Discover the secrets of quick and easy language learning online, while broadenin
 
 ![5,000 words and phrases neatly organized into categories](https://www.lingo-play.com/assets/images/lingo-hand.svg "5,000 words and phrases neatly organized into categories")
 
-* 5,000 words and phrases neatly categorized
-* Use interactive lessons of varying complexity
-* Repeat to improve memory
-* Learn by yourself or compete with other users online
-* Participate in tournaments
