@@ -79,3 +79,11 @@ Lingo Play is an interesting and effective way to learn foreign languages and me
 [![Google Play: Learn languages with Lingo Play for Android](https://www.lingo-play.com/assets/images/google-play-logo.svg "Google Play: Learn languages with Lingo Play for Android")](https://www.lingo-play.com/go/get-app-android/)
 
 Web: [Lingo Play](https://www.lingo-play.com/)
+
+![5,000 words and phrases neatly organized into categories](https://www.lingo-play.com/assets/images/lingo-hand.svg "5,000 words and phrases neatly organized into categories")
+
+* 5,000 words and phrases neatly categorized
+* Use interactive lessons of varying complexity
+* Repeat to improve memory
+* Learn by yourself or compete with other users online
+* Participate in tournaments
