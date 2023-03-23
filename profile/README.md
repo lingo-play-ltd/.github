@@ -74,7 +74,7 @@ Lingo Play is an interesting and effective way to learn foreign languages and me
 
 ### Get the Lingo Play App Today!
 
-[![App Store: Learn languages with Lingo Play for iPhone](https://www.lingo-play.com/assets/images/app-store-logo.svg "App Store: Learn languages with Lingo Play for iPhone")](https://www.lingo-play.com/go/get-app-ios/)
+[![App Store: Learn languages with Lingo Play for iPhone](https://www.lingo-play.com/assets/images/app-store-logo.svg?v2 "App Store: Learn languages with Lingo Play for iPhone")](https://www.lingo-play.com/go/get-app-ios/)
 
 [![Google Play: Learn languages with Lingo Play for Android](https://www.lingo-play.com/assets/images/google-play-logo.svg "Google Play: Learn languages with Lingo Play for Android")](https://www.lingo-play.com/go/get-app-android/)
 
