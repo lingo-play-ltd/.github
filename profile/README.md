@@ -1,6 +1,6 @@
 # [Learn languages with Lingo Play](https://wwww.lingo-play.com)
 
-Lingo Play is an interesting and effective way to learn foreign languages and memorise words in English (British and American), Spanish, French, German, Italian, Portuguese (Brazilian and European), Arabic, Russian, Turkish, Japanese, Chinese, or Korean, English (British and American), Spanish, French, German, Italian, Portuguese (Brazilian and European), Arabic, Russian, Turkish, Japanese, Chinese, or Korean.
+Discover the secrets of quick and easy language learning online, while broadening your vocabulary with the support of millions of players worldwide via the LinGo Play language learning application. The application provides lessons and courses that cater to all levels of learners, from novice to advanced speakers. You will be introduced to numerous foreign words and phrases, memorize them with ease, and frequently update your vocabulary, regardless of whether you are a beginner or a native speaker of the language. Lingo Play is an interesting and effective way to learn foreign languages and memorise words in English (British and American), Spanish, French, German, Italian, Portuguese (Brazilian and European), Arabic, Russian, Turkish, Japanese, Chinese, or Korean, English (British and American), Spanish, French, German, Italian, Portuguese (Brazilian and European), Arabic, Russian, Turkish, Japanese, Chinese, or Korean.
 
 ## Find your language
 
