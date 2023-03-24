@@ -8,7 +8,6 @@ Lingo Play is an interesting and effective way to learn foreign languages and me
 ## Find your language
 
 [English](https://www.lingo-play.com/en/english-for-beginners-and-advanced/)
-• [Traditional Chinese](https://www.lingo-play.com/en/chinese-for-beginners-and-advanced/)
 • [Chinese](https://www.lingo-play.com/en/chinese-for-beginners-and-advanced/)
 • [Spanish](https://www.lingo-play.com/en/spanish-for-beginners-and-advanced/)
 • [Portuguese](https://www.lingo-play.com/en/portuguese-for-beginners-and-advanced/)
